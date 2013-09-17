@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: . Grizzly_lib/mysql-connector-java-5.1.21-bin.jar Grizzly_
+ lib/netty-3.5.8.Final.jar Grizzly_lib/SpeakCoordinates.jar Grizzly_li
+ b/trove-3.0.3.jar Grizzly_lib/log4j-1.2.17.jar Grizzly_lib/guava-13.0
+ .jar Grizzly_lib/slf4j-api-1.6.6.jar Grizzly_lib/slf4j-jdk14-1.6.6.ja
+ r Grizzly_lib/bonecp-0.7.1.RELEASE.jar
+Main-Class: net.cobem.grizzly.Grizzly
+
